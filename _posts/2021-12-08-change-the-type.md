@@ -1,6 +1,6 @@
 ---
 title:  "타입변환"
-excerpt: "타입변환"
+excerpt: "타입변환에 대한 설명"
 categories: Java
 tags:
   - [Blog, changethetype]
