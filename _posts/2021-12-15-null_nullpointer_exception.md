@@ -3,13 +3,13 @@ title:  "Null과 NullPointerException"
 excerpt: "Null과 NullPointerException란 무엇인가"
 categories: Java
 tags:
-  - [Blog,Java]
+  - [Blog,Java, null]
 
 toc: true
 toc_sticky: true
  
 date: 2022-01-15
-last_modified_at: 2022-01-15
+last_modified_at: 2022-01-16
 ---
 
 <h3>Null(널)</h3>
@@ -31,4 +31,36 @@ last_modified_at: 2022-01-15
 </ul>
 ![image](https://user-images.githubusercontent.com/95912146/149615232-ca1bae7b-3e2f-4b45-8003-86b5cfe810be.png)
 ![image](https://user-images.githubusercontent.com/95912146/149615238-3f72510a-22d5-4298-8d4c-3b2f858a90ea.png)
+## **실습코딩내용**
+
+
+```java
+
+package p05.null_ex;
+
+// 참조 변수의 초기값으로 null 사용 예
+// 1. null의 의미 : 참조타입으로 선언된 변수의 값으로, 힙메모의 주소가 없다.
+//	  => 힙메모리에 해당 변수로 생성된 객체가 없다.
+// 2. 참조타입인 String, 1차원배열, 2차원배열에 사용가능하고, class, interface등 모든 참조타입의 초기값으로 사용가능
+public class NullEx {
+
+   public static void main(String[] args) {
+      String name = "홍길동";
+      String name1 = null;
+      int[] num = null;
+      int[][] num2 = null;
+      String[] names = null;
+      int sum = 0;
+
+      if (name1 == null) {
+         name1 = "김길동";
+      }
+      
+      System.out.println(name1);
+   }
+
+}
+
+```
+
 
