@@ -1,6 +1,6 @@
 ---
-title:  "제목"
-excerpt: "소개글"
+title:  "객체 생성과 클래스 변수"
+excerpt: "객체 생성과 클래스 변수에 대한 설명"
 categories: Java
 tags:
   - [Blog,Java]
