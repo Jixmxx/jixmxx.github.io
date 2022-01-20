@@ -1,6 +1,6 @@
 ---
-title:  "final필드와 상수"
-excerpt: "final필드와 상수에 대한 설명"
+title:  "final 필드와 상수"
+excerpt: "final 필드와 상수에 대한 설명"
 categories: Java
 tags:
   - [Blog,Java]
