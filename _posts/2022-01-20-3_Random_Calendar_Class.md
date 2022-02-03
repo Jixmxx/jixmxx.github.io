@@ -12,7 +12,8 @@ date: 2022-02-03
 last_modified_at: 2022-02-03
 ---
 
-
+<img width="754" alt="1" src="https://user-images.githubusercontent.com/95912146/152258913-d9c16f15-89f7-4188-bf86-410fa8358fe3.png">
+<img width="755" alt="2" src="https://user-images.githubusercontent.com/95912146/152258918-e6690a3e-c349-4ed7-86ce-245b7d91cb16.png">
 
 
 ## **실습코딩내용**
