@@ -11,6 +11,7 @@ toc_sticky: true
 date: 2022-02-06
 last_modified_at: 2022-02-06
 ---
+
 <br>
 <mark style="font-size:23px">컬렉션 프레임워크 소개</mark>
 <img width="752" alt="01-01-컬렉션 프레임워크 소개" src="https://user-images.githubusercontent.com/95912146/152648193-9c4f089b-c559-4463-895d-d0c334668d44.png">
