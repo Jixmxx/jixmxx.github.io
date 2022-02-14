@@ -14,6 +14,7 @@ last_modified_at: 2022-02-11
 
 <br>
 <mark style="font-size:23px">내장함수</mark>
+
 ![4장_강의_SQL 고급_4](https://user-images.githubusercontent.com/95912146/153483887-3ab5a64a-3423-487c-b105-05daf1e4d406.png)
 ![4장_강의_SQL 고급_5](https://user-images.githubusercontent.com/95912146/153483898-4c620869-890b-4a71-b71c-efd871c9ff65.png)
 ![4장_강의_SQL 고급_6](https://user-images.githubusercontent.com/95912146/153483900-34449aa8-b06a-408c-9b3a-dcfe9fd14011.png)
@@ -34,6 +35,7 @@ last_modified_at: 2022-02-11
 ![4장_강의_SQL 고급_22](https://user-images.githubusercontent.com/95912146/153483945-eed185ab-778e-46b7-9452-ff5dc2524f59.png)
 <br>
 <mark style="font-size:23px">부속질의</mark>
+
 ![4장_강의_SQL 고급_26](https://user-images.githubusercontent.com/95912146/153483947-763abc02-f316-40db-9437-1e0bca4b6e67.png)
 ![4장_강의_SQL 고급_27](https://user-images.githubusercontent.com/95912146/153483950-eee09eba-a10d-44c9-a20a-c7e8ad5c08e9.png)
 ![4장_강의_SQL 고급_28](https://user-images.githubusercontent.com/95912146/153483952-526dcf9f-4044-45fe-82e6-954263c0baa3.png)
@@ -49,6 +51,7 @@ last_modified_at: 2022-02-11
 ![4장_강의_SQL 고급_38](https://user-images.githubusercontent.com/95912146/153483981-7921b7d1-11b2-4bbd-a30d-272110319cb4.png)
 <br>
 <mark style="font-size:23px">뷰</mark>
+
 ![4장_강의_SQL 고급_41](https://user-images.githubusercontent.com/95912146/153483983-18377a10-cd54-4e54-aaa7-f27dc0a648c4.png)
 ![4장_강의_SQL 고급_42](https://user-images.githubusercontent.com/95912146/153483984-34ab8bc2-d65f-4a19-9f7f-cf2ae9d0d01d.png)
 ![4장_강의_SQL 고급_43](https://user-images.githubusercontent.com/95912146/153483987-a370720f-1b01-4b94-ba17-1a5b088aaf5f.png)
@@ -58,6 +61,7 @@ last_modified_at: 2022-02-11
 ![4장_강의_SQL 고급_47](https://user-images.githubusercontent.com/95912146/153483997-ca334e5e-10f8-4a38-bbd2-6afbbb136512.png)
 <br>
 <mark style="font-size:23px">인덱스</mark>
+
 ![4장_강의_SQL 고급_50](https://user-images.githubusercontent.com/95912146/153483999-cb47a378-c379-49ac-a3de-7772446a776a.png)
 ![4장_강의_SQL 고급_51](https://user-images.githubusercontent.com/95912146/153484000-751262f7-5c2f-41e6-9a41-ad24713da4bf.png)
 ![4장_강의_SQL 고급_52](https://user-images.githubusercontent.com/95912146/153484003-f437d281-fecc-41ed-ba77-d3e75a16e7cb.png)

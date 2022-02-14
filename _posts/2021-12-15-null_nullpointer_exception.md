@@ -1,6 +1,6 @@
 ---
 title:  "Null과 NullPointerException"
-excerpt: "Null과 NullPointerException란 무엇인가"
+excerpt: "Null과 NullPointerException에 대한 설명"
 categories: Java
 tags:
   - [Blog,Java, null]
